@@ -299,7 +299,8 @@ row{
         color: rgba(7, 7, 7, 0.925);
     }
     .content p{
-        font-size: medium;
+        font-size: 0.8rem;
+        font-family: 'Times New Roman', Times, serif;
         color: rgba(5, 5, 5, 0.669);
         width: 30vw;
     }
@@ -354,10 +355,12 @@ row{
     }
 
     .services .box-container .box p{
-        font-size: 1.5 rem;
+        font-size: 1 rem;
+        font-family: 'Times New Roman', Times, serif;
         padding: 1 rem;
     }
 
+   
  /*services section ends*/
 
 /*media queries  start */
